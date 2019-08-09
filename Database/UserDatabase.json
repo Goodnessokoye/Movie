@@ -1,0 +1,18 @@
+{
+	"table": [
+		{
+			"isUserAdmin": true,
+			"userName": "Jerry",
+			"userEmail": "profkiti@gmail.com",
+			"userPassword": "jerrybuks",
+			"userPhoneNum": "+2342345678989"
+		},
+		{
+			"isUserAdmin": false,
+			"userName": "mary",
+			"userEmail": "mary@gmail.com",
+			"userPassword": "iamMary",
+			"userPhoneNum": "+2341234567890"
+		}
+	]
+}
